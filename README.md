@@ -13,15 +13,15 @@ This implementation uses word counts for each class of review (Pos/Neg True/Fake
 ## Results
 
 #### Reference F1 Scores
-Pos F1=0.93
-Neg F1=0.92
-True F1=0.89
-Fake F1=0.89
-Mean F1 = 0.9078
+- Pos F1=0.93
+- Neg F1=0.92
+- True F1=0.89
+- Fake F1=0.89
+- Mean F1 = 0.9078
 
 #### Model F1 Scores
-Pos F1=0.91
-Neg F1=0.98
-True F1=0.87
-Fake F1=0.93
-Mean F1 = 0.9171
+- Pos F1=0.91
+- Neg F1=0.98
+- True F1=0.87
+- Fake F1=0.93
+- Mean F1 = 0.9171
